@@ -1,2 +1,3 @@
 Name: astha
 reg no: 12300541
+specialization: devops
